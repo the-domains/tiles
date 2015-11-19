@@ -1,0 +1,28 @@
+name: Tiles
+favicon: null
+layout_spectrum: 0.7340688705444336
+typography_spectrum: 0.7012390915770084
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.12456110236234963
+  lightness: 0.3284912796225399
+  saturation: 0.5378756190184504
+  rhythmicContrast: 0.6444889488629997
+purpose: []
