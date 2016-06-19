@@ -1,7 +1,7 @@
 name: Tiles
 favicon: null
-layout_spectrum: 0.28791
-typography_spectrum: 0.2973
+layout_spectrum: 1
+typography_spectrum: 1
 title: Tile test
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  brandStrength: 0.9375
+  brandStrength: 1
   lightness: 0.3284912796225399
   saturation: 0.5378756190184504
   rhythmicContrast: 0.6444889488629997
